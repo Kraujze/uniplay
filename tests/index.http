@@ -1,0 +1,7 @@
+POST https://unifyost.ru/uniplay/
+Content-Type: application/json
+
+{
+  "id": 999,
+  "value": "content"
+}
